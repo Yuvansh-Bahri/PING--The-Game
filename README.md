@@ -1,3 +1,3 @@
 # PING--The-Game
-A work-in-progress RPG based on the popular game 'Pong'. An exercise in combining narrative with the simple graphics of early video games.
-Made to learn Pygame in Hack Club Summer of Making 2025.
+This is PING- The Game! It's a WIP game that'll soon feature levels that add a new take to the classic arcade game 'Pong'. 
+Made to learn Pygame in Hack Club Summer of Making 2025!
