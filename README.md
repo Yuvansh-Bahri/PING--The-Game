@@ -1,3 +1,5 @@
 # PING--The-Game
-This is PING- The Game! It's a WIP game that'll soon feature levels that add a new take to the classic arcade game 'Pong'. 
-Made to learn Pygame in Hack Club Summer of Making 2025!
+This is PING- The Game! A WIP project based on the original arcade game Pong.
+It features new elements to the game like speeding up and slowing down that makes each round unique! More stuff coming soon!
+
+Made for Hack Club SoM 2025!
